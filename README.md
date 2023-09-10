@@ -39,13 +39,12 @@
 <br/>
 ## 📫 Let's Connect 
 <hr>
-<a href="https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/" target="_blank">LinkedIn</a>
-[LinkedIn](https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/)
-[Instgramme](https://www.instagram.com/adel_mohammed16/)
-[Codepen](https://codepen.io/Bedrani-MohammedAdel)
-[Codewars](https://www.codewars.com/users/Bedrani%20Mohammed%20Adel%20)
-[Facebook](https://www.facebook.com/profile.php?id=100013937412279)
-[Twitter](https://twitter.com/Youcef43069530) 
+Linkedin : <a href="https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/" target="_blank">Linkedin</a>
+Instgramme : <a href="https://www.instagram.com/adel_mohammed16/" target="_blank">Instgramme</a>
+Codepen : <a href="https://codepen.io/Bedrani-MohammedAdel" target="_blank">Codepen</a>
+Codewars : <a href="https://www.codewars.com/users/Bedrani%20Mohammed%20Adel%20" target="_blank">Codewars</a>
+Facebook : <a href="https://www.facebook.com/profile.php?id=100013937412279" target="_blank">Facebook</a>
+Twitter : <a href="https://twitter.com/Youcef43069530" target="_blank">Twitter</a>
 <br/>
 <img align="right" alt="Gif" src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
