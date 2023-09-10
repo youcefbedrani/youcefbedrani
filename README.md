@@ -1,13 +1,18 @@
 # Hi there 👋 I'm Bedrani Mohammed Adel 👨‍💻
+<br/>
+<img align="right" alt="Gif" src="https://media.giphy.com/media/3o6Ztl7oraKm4ZJ9mw/giphy.gif" alt="react" width="350" heigth="300" >
+<br/>
 ## Here are Mohammed Adel Bedrani student at 3ed year in Zian Achour Djelfa university , one thing motivated me in coumputer science is How can make money that easy ***never belive me *** Now i working with diffrent project such as web-->fullsatck , native mobile application , for my final project university 
 <br/>
-<img align="right" alt="Gif" src="https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
 <br/>
-## - 🌱  I’m currently learning : Android develpment with java and kotlin also some swift devlpment
+## I’m currently learning : Android develpment with java and kotlin also some swift devlpment🌱 
 <br/>
 <br/>
-## - 💪 Langauge and Tools
+<br/>
+<br/>
+<br/>
+## Langauge and Tools 💪💪
 <hr>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" heigth="35" >
@@ -32,11 +37,11 @@
 ## 📫 Let's Connect 
 <hr>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="25" widtth="20"/> [Linkedin](https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/)
-<img align="center" src="https://icones8.fr/icon/Xy10Jcu1L2Su/instagram" heigth="25" widtth="20"/>[Instgramme](https://www.instagram.com/adel_mohammed16/)
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" heigth="25" widtth="20"/>[Codepen](https://codepen.io/Bedrani-MohammedAdel)
+<img align="center" src="https://icones8.fr/icon/Xy10Jcu1L2Su/instagram" heigth="25" width="20"/>[Instgramme](https://www.instagram.com/adel_mohammed16/)
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" heigth="25" width="20"/>[Codepen](https://codepen.io/Bedrani-MohammedAdel)
 <img align="center" src="https://docs.codewars.com/logo.svg" heigth="25" widtth="20"/>[Codewars](https://www.codewars.com/users/Bedrani%20Mohammed%20Adel%20)
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" heigth="25" widtth="20"/>[Facebook](https://www.facebook.com/profile.php?id=100013937412279)
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" heigth="25" widtth="20"/>[Twitter](https://twitter.com/Youcef43069530)
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" heigth="25" width="20"/>[Facebook](https://www.facebook.com/profile.php?id=100013937412279)
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" heigth="25" width="20"/>[Twitter](https://twitter.com/Youcef43069530)
 <br/>
 <img align="right" alt="Gif" src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
