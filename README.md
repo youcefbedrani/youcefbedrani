@@ -53,7 +53,10 @@ Twitter : <a href="https://twitter.com/Youcef43069530" target="_blank">Twitter</
 <br/>
 
 ## 🎆 Status :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youcefbedrani&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youcefbedrani&show_icons=true&theme=radical) 
+
+<br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=youcefbedrani&theme=highcontrast)](https://git.io/streak-stats)
 
 
