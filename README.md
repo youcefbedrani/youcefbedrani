@@ -7,9 +7,13 @@
 <br/>
 <br/>
 <br/>
+<br/>
+
 
 ## 🌱 I’m currently learning : Android develpment with java and kotlin also some swift devlpment 
 <br/>
+
+## 👯 I’m looking to collaborate on team who interesting in React-js and Nodejs or Kotlin mobile developer 
 <br/>
 <br/>
 <br/>
