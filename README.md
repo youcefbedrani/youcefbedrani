@@ -2,11 +2,11 @@
 <br/>
 <img align="right" alt="Gif" src="https://media.giphy.com/media/3o6Ztl7oraKm4ZJ9mw/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
-# Here are Mohammed Adel Bedrani student at 3ed year in Zian Achour Djelfa university , one thing motivated me in coumputer science is How can make money that easy never belive me Now i working with diffrent project such as web-->fullsatck , native mobile application , for my final project university 
+# 🙋‍♂️ Here are Mohammed Adel Bedrani student at 3ed year in Zian Achour Djelfa university , one thing motivated me in coumputer science is How can make money that easy never belive me Now i working with diffrent project such as web-->fullsatck , native mobile application , for my final project university 
 <br/>
 <br/>
 <br/>
-## I’m currently learning : Android develpment with java and kotlin also some swift devlpment🌱 
+## 🌱 I’m currently learning : Android develpment with java and kotlin also some swift devlpment 
 <br/>
 <br/>
 <br/>
