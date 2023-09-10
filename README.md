@@ -1,9 +1,10 @@
-# Hi there 👋 I'm Bedrani Mohammed Adel 👨‍💻
+# Hi there 👨‍💻 I'm Bedrani Mohammed Adel 
 <br/>
 <img align="right" alt="Gif" src="https://media.giphy.com/media/3o6Ztl7oraKm4ZJ9mw/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
 
-## Here are Mohammed Adel Bedrani student at 3ed year in Zian Achour Djelfa university 🏫 , one thing motivated me in coumputer science is How can make money 💹 that easy never belive me Now 🔭 i working with diffrent project such as web-->fullsatck , native mobile application , for my final project university 
+## Here 👋 are Mohammed Adel Bedrani student 👨‍🎓 at 3ed year in Zian Achour Djelfa university 🏫 , one thing motivated me in coumputer science is How can make money 💹 that easy never belive me Now 🔭 i working with diffrent project such as web-->fullsatck , native mobile application , for my final project university 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -58,7 +59,7 @@ Twitter : <a href="https://twitter.com/Youcef43069530" target="_blank">Twitter</
 
 ## See you in Work my frineds 🙋‍♂️
 <br/>
-<img align="center" alt="Gif" src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" alt="react" width="350" heigth="300" >
+<img align="center" alt="Gif" src="https://media.giphy.com/media/xjZtu4qi1biIo/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
 <!--
 **youcefbedrani/youcefbedrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
