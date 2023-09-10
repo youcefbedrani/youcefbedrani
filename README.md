@@ -3,42 +3,38 @@
 <img align="right" alt="Gif" src="https://media.giphy.com/media/3o6Ztl7oraKm4ZJ9mw/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
 
-## Here are Mohammed Adel Bedrani student at 3ed year in Zian Achour Djelfa university 🏫 , one thing motivated me in coumputer science is How can make money 💹 that easy never belive me Now i working with diffrent project such as web-->fullsatck , native mobile application , for my final project university 
+## Here are Mohammed Adel Bedrani student at 3ed year in Zian Achour Djelfa university 🏫 , one thing motivated me in coumputer science is How can make money 💹 that easy never belive me Now 🔭 i working with diffrent project such as web-->fullsatck , native mobile application , for my final project university 
 <br/>
 <br/>
 <br/>
 <br/>
-
-
-### 🌱 I’m currently learning : Android develpment with java and kotlin also some swift devlpment 
+🌱 I’m currently learning : Android develpment with java and kotlin also some swift devlpment 
 <br/>
-
-### 👯 I’m looking to collaborate on team who interesting in React-js and Nodejs or Kotlin mobile developer 
+👯 I’m looking to collaborate on team who interesting in React-js and Nodejs or Kotlin mobile developer 
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
 
 ## 💪💪Langauge and Tools :
 <hr>
 <img align="right" alt="Gif" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="react" width="350" heigth="300" >
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bottstrap" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="taiwilnd" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="70" heigth="70" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bottstrap" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="taiwilnd" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="80" heigth="80" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="80" heigth="80" >
 </p>
 <br/>
 <br/>
