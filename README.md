@@ -8,10 +8,12 @@
 <br/>
 <br/>
 <br/>
+<br/>
 🌱 I’m currently learning : Android develpment with java and kotlin also some swift devlpment 
 <br/>
 👯 I’m looking to collaborate on team who interesting in React-js and Nodejs or Kotlin mobile developer 
 <br/>
+💬 Ask me : bedranimohammed12@gmail.com
 <br/>
 <br/>
 <br/>
@@ -36,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="80" heigth="80" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="80" heigth="80" >
 </p>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
