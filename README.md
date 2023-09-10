@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Bedrani Mohammed Adel 
-#Here are Mohammed Adel Bedrani student at 3ed year in Zian Achour Djelfa university , one thing motivated me in coumputer science is How can make money that easy ***never belive me *** Now i working with diffrent project such as web-->fullsatck , native mobile application , for my final project university 
+### Hi there 👋 I'm Bedrani Mohammed Adel 👨‍💻
+# Here are Mohammed Adel Bedrani student at 3ed year in Zian Achour Djelfa university , one thing motivated me in coumputer science is How can make money that easy ***never belive me *** Now i working with diffrent project such as web-->fullsatck , native mobile application , for my final project university 
 
 <br/>
 
@@ -11,7 +11,8 @@
 ## - 🌱  I’m currently learning : Android develpment with java and kotlin also some swift devlpment
 <br/>
 <br/>
-## - 📫 Langauge and Tools
+## - 💪 Langauge and Tools
+<hr>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" heigth="35" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="35" heigth="35" >
@@ -32,14 +33,14 @@
 <br/>
 <br/>
 
-##Let's Connect
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="auto" widtth="20"/>[Linkedin](https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/)
-<img src="https://icones8.fr/icon/Xy10Jcu1L2Su/instagram" heigth="auto" widtth="20"/>[Instgramme](https://www.instagram.com/adel_mohammed16/)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" heigth="auto" widtth="20"/>[Codepen](https://codepen.io/Bedrani-MohammedAdel)
-<img src="https://docs.codewars.com/logo.svg" heigth="auto" widtth="20"/>[Codewars](https://www.codewars.com/users/Bedrani%20Mohammed%20Adel%20)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" heigth="auto" widtth="20"/>[Facebook](https://www.facebook.com/profile.php?id=100013937412279)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" heigth="auto" widtth="20"/>[Twitter](https://twitter.com/Youcef43069530)
-
+## 📫 Let's Connect 
+<hr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="25" widtth="20"/>[Linkedin](https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/)
+<img src="https://icones8.fr/icon/Xy10Jcu1L2Su/instagram" heigth="25" widtth="20"/>[Instgramme](https://www.instagram.com/adel_mohammed16/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" heigth="25" widtth="20"/>[Codepen](https://codepen.io/Bedrani-MohammedAdel)
+<img src="https://docs.codewars.com/logo.svg" heigth="25" widtth="20"/>[Codewars](https://www.codewars.com/users/Bedrani%20Mohammed%20Adel%20)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" heigth="25" widtth="20"/>[Facebook](https://www.facebook.com/profile.php?id=100013937412279)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" heigth="25" widtth="20"/>[Twitter](https://twitter.com/Youcef43069530)
 <br/>
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
