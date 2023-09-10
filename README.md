@@ -36,7 +36,7 @@
 
 ## 📫 Let's Connect 
 <hr>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="25" widtth="20"/> [Linkedin](https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/)
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="25" widtth="20"/>[Linkedin](https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/)
 <img align="center" src="https://icones8.fr/icon/Xy10Jcu1L2Su/instagram" heigth="25" width="20"/>[Instgramme](https://www.instagram.com/adel_mohammed16/)
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" heigth="25" width="20"/>[Codepen](https://codepen.io/Bedrani-MohammedAdel)
 <img align="center" src="https://docs.codewars.com/logo.svg" heigth="25" widtth="20"/>[Codewars](https://www.codewars.com/users/Bedrani%20Mohammed%20Adel%20)
