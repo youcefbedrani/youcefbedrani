@@ -16,8 +16,6 @@
 💬 Ask me : bedranimohammed12@gmail.com
 <br/>
 <br/>
-<br/>
-<br/>
 
 ## 💪💪Langauge and Tools :
 <hr>
@@ -38,8 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="80" heigth="80" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="80" heigth="80" >
 </p>
-<br/>
-<br/>
 <br/>
 <br/>
 
