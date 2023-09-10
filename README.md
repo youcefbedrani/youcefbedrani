@@ -1,11 +1,7 @@
 # Hi there 👋 I'm Bedrani Mohammed Adel 👨‍💻
 ## Here are Mohammed Adel Bedrani student at 3ed year in Zian Achour Djelfa university , one thing motivated me in coumputer science is How can make money that easy ***never belive me *** Now i working with diffrent project such as web-->fullsatck , native mobile application , for my final project university 
-
 <br/>
-
 <img align="right" alt="Gif" src="https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif" alt="react" width="350" heigth="300" >
-
-<br/>
 <br/>
 <br/>
 ## - 🌱  I’m currently learning : Android develpment with java and kotlin also some swift devlpment
@@ -29,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" heigth="35" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="35" heigth="35" >
 </p>
-<br/>
 <img align="right" alt="Gif" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
 <br/>
@@ -47,14 +42,14 @@
 <br/>
 <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=green&right_color=red)
-
+## 🎆 Status :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youcefbedrani&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=youcefbedrani&theme=highcontrast)](https://git.io/streak-stats)
 
 
 ## See you in Work my frineds 
 <br/>
-<img align="right" alt="Gif" src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" alt="react" width="350" heigth="300" >
+<img align="center" alt="Gif" src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
 <!--
 **youcefbedrani/youcefbedrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
