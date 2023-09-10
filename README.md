@@ -43,16 +43,15 @@
 <br/>
 ## 📫 Let's Connect 
 <hr>
+<img align="right" alt="Gif" src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" alt="react" width="350" heigth="300" >
 Linkedin : <a href="https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/" target="_blank">Linkedin</a> <br/>
 Instgramme : <a href="https://www.instagram.com/adel_mohammed16/" target="_blank">Instgramme</a><br/>
 Codepen : <a href="https://codepen.io/Bedrani-MohammedAdel" target="_blank">Codepen</a><br/>
 Codewars : <a href="https://www.codewars.com/users/Bedrani%20Mohammed%20Adel%20" target="_blank">Codewars</a><br/>
 Facebook : <a href="https://www.facebook.com/profile.php?id=100013937412279" target="_blank">Facebook</a><br/>
 Twitter : <a href="https://twitter.com/Youcef43069530" target="_blank">Twitter</a>
-<img align="right" alt="Gif" src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
 <br/>
-
 ## 🎆 Status :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youcefbedrani&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=youcefbedrani&theme=highcontrast)](https://git.io/streak-stats)
