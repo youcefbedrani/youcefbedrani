@@ -39,12 +39,13 @@
 <br/>
 ## 📫 Let's Connect 
 <hr>
+<a href="https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/" target="_blank">LinkedIn</a>
 [LinkedIn](https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/)
-<img align="center" src="https://icones8.fr/icon/Xy10Jcu1L2Su/instagram" heigth="25" width="20"/>[Instgramme](https://www.instagram.com/adel_mohammed16/)
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" heigth="auto" width="20"/> [Codepen](https://codepen.io/Bedrani-MohammedAdel)
-<img align="center" src="https://docs.codewars.com/logo.svg" heigth="25" widtth="20"/> [Codewars](https://www.codewars.com/users/Bedrani%20Mohammed%20Adel%20)
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" heigth="auto" width="20"/> [Facebook](https://www.facebook.com/profile.php?id=100013937412279)
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" heigth="auto" width="20"/> [Twitter](https://twitter.com/Youcef43069530) 
+[Instgramme](https://www.instagram.com/adel_mohammed16/)
+[Codepen](https://codepen.io/Bedrani-MohammedAdel)
+[Codewars](https://www.codewars.com/users/Bedrani%20Mohammed%20Adel%20)
+[Facebook](https://www.facebook.com/profile.php?id=100013937412279)
+[Twitter](https://twitter.com/Youcef43069530) 
 <br/>
 <img align="right" alt="Gif" src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
