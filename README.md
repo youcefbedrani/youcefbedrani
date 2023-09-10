@@ -14,6 +14,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 ## Langauge and Tools 💪💪
 <hr>
 <p>
@@ -39,6 +40,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 ## 📫 Let's Connect 
 <hr>
 Linkedin : <a href="https://www.linkedin.com/in/bedrani-mohammed-adel-3477b9247/" target="_blank">Linkedin</a> <br/>
@@ -47,7 +49,6 @@ Codepen : <a href="https://codepen.io/Bedrani-MohammedAdel" target="_blank">Code
 Codewars : <a href="https://www.codewars.com/users/Bedrani%20Mohammed%20Adel%20" target="_blank">Codewars</a><br/>
 Facebook : <a href="https://www.facebook.com/profile.php?id=100013937412279" target="_blank">Facebook</a><br/>
 Twitter : <a href="https://twitter.com/Youcef43069530" target="_blank">Twitter</a>
-<br/>
 <img align="right" alt="Gif" src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" alt="react" width="350" heigth="300" >
 <br/>
 <br/>
