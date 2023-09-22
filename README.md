@@ -6,10 +6,6 @@
 ## Here 👋 are Mohammed Adel Bedrani student 👨‍🎓 at 3ed year in Zian Achour Djelfa university 🏫 , one thing motivated me in coumputer science is How can make money that easy never belive me Now 🔭 i working with diffrent project such as web--> Fullsatck , native mobile application , for my final project university 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 🌱 I’m currently learning : Android develpment with java and kotlin also some swift devlopment 
 <br/>
 👯 I’m looking to collaborate on team who interesting in React-js and Nodejs or Kotlin mobile developer 
