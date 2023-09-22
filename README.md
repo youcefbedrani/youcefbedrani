@@ -3,7 +3,7 @@
 <img src="https://seeklogo.com/images/W/web-dev-logo-E60991AA99-seeklogo.com.png" alt="figma" width="300" heigth="300" float="right" >
 <br/>
 
-## Here 👋 are Mohammed Adel Bedrani student 👨‍🎓 at 3ed year in Zian Achour Djelfa university 🏫 , one thing motivated me in coumputer science is How can make money 💹 that easy never belive me Now 🔭 i working with diffrent project such as web--> ✨Fullsatck✨ , ✨native mobile application✨ , for my final project university 
+## Here 👋 are Mohammed Adel Bedrani student 👨‍🎓 at 3ed year in Zian Achour Djelfa university 🏫 , one thing motivated me in coumputer science is How can make money that easy never belive me Now 🔭 i working with diffrent project such as web--> Fullsatck , native mobile application , for my final project university 
 <br/>
 <br/>
 <br/>
@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-## 💪💪Langauge and Tools :
+## Langauge and Tools :
 <hr>
 <img align="right" alt="Gif" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="react" width="350" heigth="300" >
 <p>
@@ -64,17 +64,3 @@ Twitter : <a href="https://twitter.com/Youcef43069530" target="_blank">Twitter</
 
 ## See you in Work my frineds 🙋‍♂️
 <img align="center" alt="Gif" src="https://media.giphy.com/media/xjZtu4qi1biIo/giphy.gif" alt="react" width="350" heigth="300" >
-<!--
-**youcefbedrani/youcefbedrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
