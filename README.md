@@ -1,6 +1,6 @@
 # Hi there 👨‍💻 I'm Bedrani Mohammed Adel 
 <br/>
-<img src="https://seeklogo.com/images/W/web-dev-logo-E60991AA99-seeklogo.com.png" alt="figma" width="300" heigth="300" float="right" >
+<img src="https://seeklogo.com/images/W/web-dev-logo-E60991AA99-seeklogo.com.png" alt="figma" width="300" heigth="300" float="rigth" text-align="rigth" >
 <br/>
 
 ## Here 👋 are Mohammed Adel Bedrani student 👨‍🎓 at 3ed year in Zian Achour Djelfa university 🏫 , one thing motivated me in coumputer science is How can make money that easy never belive me Now 🔭 i working with diffrent project such as web--> Fullsatck , native mobile application , for my final project university 
