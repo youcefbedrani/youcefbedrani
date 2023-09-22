@@ -1,5 +1,6 @@
 # Hi there 👨‍💻 I'm Bedrani Mohammed Adel 
 <br/>
+<img src="https://seeklogo.com/images/W/web-dev-logo-E60991AA99-seeklogo.com.png" alt="figma" width="300" heigth="300" >
 <br/>
 
 ## Here 👋 are Mohammed Adel Bedrani student 👨‍🎓 at 3ed year in Zian Achour Djelfa university 🏫 , one thing motivated me in coumputer science is How can make money 💹 that easy never belive me Now 🔭 i working with diffrent project such as web--> ✨Fullsatck✨ , ✨native mobile application✨ , for my final project university 
@@ -23,9 +24,9 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="70" heigth="70" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="70" heigth="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="70" heigth="70" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="70" heigth="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="70" heigth="70" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bottstrap" width="70" heigth="70" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="taiwilnd" width="70" heigth="70" >
