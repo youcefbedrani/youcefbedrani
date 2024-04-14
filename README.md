@@ -3,7 +3,13 @@
 <img align="right" src="https://media.allure.com/photos/5efa18a92ef61b00086cd6bf/16:9/w_2560%2Cc_limit/eau-de-space-lede.jpg" alt="figma" width="500" heigth="500">
 <br/>
 
-## Here 👋 are Mohammed Adel Bedrani student 👨‍🎓 at 3ed year in Zian Achour Djelfa university 🏫 , one thing motivated me in coumputer science is How can make money that easy never belive me Now 🔭 i working with diffrent project such as web--> Fullsatck , native mobile application , for my final project university 
+## Absolutely, here's a refined version of your README:
+
+## 👋 Greetings! I'm Mohammed Adel Bedrani, currently a third-year student at Zian Achour Djelfa University 🏫. My passion for computer science was ignited by the possibility of earning money effortlessly - a notion that continually fascinates me. 🚀 Currently, I'm immersed in various projects, ranging from full-stack web development to native mobile applications.
+
+## 🔭 My journey involves exploring diverse technologies, with proficiency in Software Engineering, React Native, and Full-stack web development using Django and ReactJS.
+
+## Feel free to explore my work and connect with me for any collaborations or inquiries! 🌟
 <br/>
 <br/>
 🌱 I’m currently learning : Android develpment with  kotlin 
