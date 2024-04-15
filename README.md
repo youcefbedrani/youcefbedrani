@@ -25,7 +25,7 @@
 <img align="right" alt="Gif" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="react" width="350" heigth="300" >
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="70" heigth="70" >
-  <img src="[[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://static-00.iconduck.com/assets.00/sdk-react-native-icon-512x490-ynyk8t4w.png)](https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png)](https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png)" alt="react" width="70" heigth="70" >
+  <img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" alt="react" width="70" heigth="70" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="70" heigth="70"  />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="70" heigth="70" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" heigth="70"  />        
