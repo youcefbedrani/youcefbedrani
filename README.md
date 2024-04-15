@@ -9,12 +9,7 @@
 
 ## Feel free to explore my work and connect with me for any collaborations or inquiries! 🌟
 <br/>
-<br/>
-🌱 I’m currently learning : Android develpment with  kotlin 
-<br/>
-👯 I’m looking to collaborate on team who interesting in React-js and Laravel  
-<br/>
-💬 Ask me : bedranimohammed12@gmail.com
+## 💬 Contact me : bedranimohammed12@gmail.com
 <br/>
 <br/>
 
