@@ -3,10 +3,8 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFzMXFlOWs4Z255aDd5NTN6NmZiaXJzbWV2eWp2ZGt1cWMzenIzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHQn7PBRvy9A5mE/giphy.gif" alt="figma" width="500" heigth="500">
 <br/>
 
-## Absolutely, here's a refined version of your README:
-
-## 👋 Greetings! I'm Mohammed Adel Bedrani, currently a third-year student at Zian Achour Djelfa University 🏫. My passion for computer science was ignited by the possibility of earning money effortlessly - a notion that continually fascinates me. 🚀 Currently, I'm immersed in various projects, ranging from full-stack web development to native mobile applications.
-
+ ## 👋 Greetings! I'm Mohammed Adel Bedrani, currently a third-year student at Zian Achour Djelfa University 🏫. My passion for computer science was ignited by the possibility of earning money effortlessly - a notion that continually fascinates me. 🚀 Currently, I'm immersed in various projects, ranging from full-stack web development to native mobile applications.
+ 
 ## 🔭 My journey involves exploring diverse technologies, with proficiency in Software Engineering, React Native, and Full-stack web development using Django and ReactJS.
 
 ## Feel free to explore my work and connect with me for any collaborations or inquiries! 🌟
